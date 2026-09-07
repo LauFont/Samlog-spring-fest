@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 179 187">
+  <!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: url(#Degradado_sin_nombre1);
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .st1 {
+        stroke: url(#Degradado_sin_nombre14);
+      }
+
+      .st2 {
+        stroke: url(#Degradado_sin_nombre9);
+      }
+
+      .st3 {
+        stroke: url(#Degradado_sin_nombre6);
+      }
+
+      .st4 {
+        stroke: url(#Degradado_sin_nombre15);
+      }
+
+      .st5 {
+        stroke: url(#Degradado_sin_nombre5);
+      }
+
+      .st6 {
+        stroke: url(#Degradado_sin_nombre16);
+      }
+
+      .st7 {
+        stroke: url(#Degradado_sin_nombre12);
+      }
+
+      .st8 {
+        stroke: url(#Degradado_sin_nombre19);
+      }
+
+      .st9 {
+        stroke: url(#Degradado_sin_nombre18);
+      }
+
+      .st10 {
+        stroke: url(#Degradado_sin_nombre13);
+      }
+
+      .st11 {
+        stroke: url(#Degradado_sin_nombre7);
+      }
+
+      .st12 {
+        stroke: url(#Degradado_sin_nombre);
+      }
+
+      .st13 {
+        stroke: url(#Degradado_sin_nombre2);
+      }
+
+      .st14 {
+        stroke: url(#Degradado_sin_nombre10);
+      }
+
+      .st15 {
+        stroke: url(#Degradado_sin_nombre8);
+      }
+
+      .st16 {
+        stroke: url(#Degradado_sin_nombre3);
+      }
+
+      .st17 {
+        stroke: url(#Degradado_sin_nombre4);
+      }
+
+      .st18 {
+        stroke: url(#Degradado_sin_nombre17);
+      }
+
+      .st19 {
+        stroke: url(#Degradado_sin_nombre11);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="69.76" y1="742.24" x2="100.71" y2="742.24" gradientTransform="translate(0 -653.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre1" data-name="Degradado sin nombre" x1="92.8" y1="761.84" x2="138.16" y2="761.84" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre2" data-name="Degradado sin nombre" x1="92.8" y1="717.19" x2="118.6" y2="717.19" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre3" data-name="Degradado sin nombre" x1="40.82" y1="771.79" x2="56.72" y2="771.79" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre4" data-name="Degradado sin nombre" x1="48.2" y1="130.85" x2="92" y2="130.85" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre5" data-name="Degradado sin nombre" x1="48.2" y1="114.7" x2="100.1" y2="114.7" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre6" data-name="Degradado sin nombre" x1="74.6" y1="60.95" x2="79" y2="60.95" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre7" data-name="Degradado sin nombre" x1="66" y1="65.5" x2="70.4" y2="65.5" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre8" data-name="Degradado sin nombre" x1="74.5" y1="65.75" x2="78.9" y2="65.75" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre9" data-name="Degradado sin nombre" x1="66.1" y1="60.7" x2="70.5" y2="60.7" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre10" data-name="Degradado sin nombre" x1="71" y1="68.1" x2="74" y2="68.1" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre11" data-name="Degradado sin nombre" x1="71" y1="58.35" x2="74" y2="58.35" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre12" data-name="Degradado sin nombre" x1="57.2" y1="81.4" x2="63.1" y2="81.4" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre13" data-name="Degradado sin nombre" x1="42.8" y1="89.05" x2="48.7" y2="89.05" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre14" data-name="Degradado sin nombre" x1="57" y1="89.45" x2="62.8" y2="89.45" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre15" data-name="Degradado sin nombre" x1="43.1" y1="81.05" x2="48.9" y2="81.05" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre16" data-name="Degradado sin nombre" x1="51.4" y1="93.35" x2="54.4" y2="93.35" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre17" data-name="Degradado sin nombre" x1="51.4" y1="77.1" x2="54.4" y2="77.1" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre18" data-name="Degradado sin nombre" x1="72.6" y1="123.65" x2="80.5" y2="123.65" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre19" data-name="Degradado sin nombre" x1="61.2" y1="121.2" x2="87" y2="121.2" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre"/>
+  </defs>
+  <g id="Capa_11" data-name="Capa_1">
+    <g id="photography_person_camera">
+      <g>
+        <path class="st12" d="M99.2,76.6v.8c0,3.3-2.1,6.3-5.2,7.4l-11.1,4c-5.2,1.9-9.4,5.8-11.5,10.9l-.2.4"/>
+        <path class="st0" d="M126.9,106.5v19.6c0,1.8-1.5,3.3-3.3,3.3h-24.4c-2.7,0-4.9,2.2-4.9,4.9s2.2,4.9,4.9,4.9h24.4c7.2,0,13-5.8,13-13v-25.3c0-5.5-3.5-10.5-8.7-12.3l-10.5-3.7c-.6-.2-1.1-.5-1.6-.8-2.2-1.4-3.6-3.9-3.6-6.6v-.8"/>
+        <path class="st13" d="M99.2,76.2c-2.7-2.3-4.9-6.6-4.9-13.7v-3.3c0-6.3,5.1-11.4,11.4-11.4h0c6.3,0,11.4,5.1,11.4,11.4v3.3c0,13-7.5,16.3-11.4,16.3"/>
+        <path class="st16" d="M42.3,117.9c0-2.7,2.2-4.9,4.9-4.9h3.1c2.7,0,4.9,2.2,4.9,4.9s-2.2,4.9-4.9,4.9h-3.1c-2.7,0-4.9-2.1-4.9-4.9Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="Capa_2">
+    <path class="st17" d="M49.7,122.7v13c0,1.8,1.5,3.3,3.3,3.3h37.5"/>
+    <path class="st5" d="M98.6,129.5v-19.8c0-1.8-1.5-3.3-3.3-3.3h-8.2l-2.3-4.7c-.6-1.1-1.7-1.8-2.9-1.8h-15.5c-1.2,0-2.4.7-2.9,1.8l-2.3,4.7h-8.2c-1.8,0-3.3,1.5-3.3,3.3v3.3"/>
+    <g>
+      <g>
+        <line class="st3" x1="76.1" y1="61.3" x2="77.5" y2="60.6"/>
+        <line class="st11" x1="67.5" y1="65.9" x2="68.9" y2="65.1"/>
+      </g>
+      <g>
+        <line class="st15" x1="76" y1="65.3" x2="77.4" y2="66.2"/>
+        <line class="st2" x1="67.6" y1="60.3" x2="69" y2="61.1"/>
+      </g>
+      <g>
+        <line class="st14" x1="72.5" y1="67.3" x2="72.5" y2="68.9"/>
+        <line class="st19" x1="72.5" y1="57.5" x2="72.5" y2="59.2"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="st7" x1="58.7" y1="82.2" x2="61.6" y2="80.6"/>
+        <line class="st10" x1="44.3" y1="89.8" x2="47.2" y2="88.3"/>
+      </g>
+      <g>
+        <line class="st1" x1="58.5" y1="88.6" x2="61.3" y2="90.3"/>
+        <line class="st4" x1="44.6" y1="80.2" x2="47.4" y2="81.9"/>
+      </g>
+      <g>
+        <line class="st6" x1="52.9" y1="91.7" x2="52.9" y2="95"/>
+        <line class="st18" x1="52.9" y1="75.5" x2="52.9" y2="78.7"/>
+      </g>
+    </g>
+    <path class="st9" d="M79,121.2c0,2.7-2.2,4.9-4.9,4.9"/>
+    <circle class="st8" cx="74.1" cy="121.2" r="11.4"/>
+  </g>
+</svg>

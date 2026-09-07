@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="regalo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 179 187">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Degradado_sin_nombre_2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: url(#Degradado_sin_nombre_2-6);
+      }
+
+      .cls-3 {
+        stroke: url(#Degradado_sin_nombre_2-4);
+      }
+
+      .cls-4 {
+        stroke: url(#Degradado_sin_nombre_2-2);
+      }
+
+      .cls-5 {
+        stroke: url(#Degradado_sin_nombre_2-3);
+      }
+
+      .cls-6 {
+        stroke: url(#Degradado_sin_nombre_2-5);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="50.88" y1="116" x2="123.79" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2-2" data-name="Degradado sin nombre 2" x1="41.17" y1="82.01" x2="133.5" y2="82.01" xlink:href="#Degradado_sin_nombre_2"/>
+    <linearGradient id="Degradado_sin_nombre_2-3" data-name="Degradado sin nombre 2" x1="78.06" y1="104.35" x2="81.06" y2="104.35" xlink:href="#Degradado_sin_nombre_2"/>
+    <linearGradient id="Degradado_sin_nombre_2-4" data-name="Degradado sin nombre 2" x1="93.6" y1="104.35" x2="96.6" y2="104.35" xlink:href="#Degradado_sin_nombre_2"/>
+    <linearGradient id="Degradado_sin_nombre_2-5" data-name="Degradado sin nombre 2" x1="60.59" y1="59.68" x2="88.83" y2="59.68" xlink:href="#Degradado_sin_nombre_2"/>
+    <linearGradient id="Degradado_sin_nombre_2-6" data-name="Degradado sin nombre 2" x1="85.83" y1="59.68" x2="114.08" y2="59.68" xlink:href="#Degradado_sin_nombre_2"/>
+  </defs>
+  <rect class="cls-1" x="52.38" y="93.67" width="69.91" height="44.67"/>
+  <rect class="cls-4" x="42.67" y="70.36" width="89.33" height="23.3"/>
+  <line class="cls-5" x1="79.56" y1="70.36" x2="79.56" y2="138.33"/>
+  <line class="cls-3" x1="95.1" y1="70.36" x2="95.1" y2="138.33"/>
+  <path class="cls-6" d="M87.33,70.36c-11.65,0-25.25-1.94-25.25-11.65,0-7.77,3.88-9.71,9.71-9.71,7.77,0,15.54,13.59,15.54,21.36Z"/>
+  <path class="cls-2" d="M87.33,70.36c11.65,0,25.25-1.94,25.25-11.65,0-7.77-3.88-9.71-9.71-9.71-7.77,0-15.54,13.59-15.54,21.36Z"/>
+</svg>

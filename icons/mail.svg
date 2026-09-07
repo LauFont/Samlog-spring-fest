@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mail" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 179 187">
+  <!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: url(#Degradado_sin_nombre_6);
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .st1 {
+        stroke: url(#Degradado_sin_nombre_4);
+      }
+
+      .st2 {
+        stroke: url(#Degradado_sin_nombre_5);
+      }
+
+      .st3 {
+        stroke: url(#Degradado_sin_nombre_7);
+      }
+
+      .st4 {
+        stroke: url(#Degradado_sin_nombre);
+      }
+
+      .st5 {
+        stroke: url(#Degradado_sin_nombre_3);
+      }
+
+      .st6 {
+        stroke: url(#Degradado_sin_nombre_2);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="127.56" y1="122.08" x2="130.56" y2="122.08" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="48.44" y1="122.08" x2="130.56" y2="122.08" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="37.14" y1="71.78" x2="141.86" y2="71.78" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="37.14" y1="63.3" x2="141.86" y2="63.3" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="127.54" y1="108.42" x2="141.86" y2="108.42" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="37.14" y1="108.41" x2="51.44" y2="108.41" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_7" data-name="Degradado sin nombre 7" x1="67.3" y1="117.19" x2="111.75" y2="117.19" gradientTransform="translate(0 187.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+  </defs>
+  <g id="event_message_letter_mail_invitation_star">
+    <g>
+      <line class="st4" x1="129.06" y1="92.75" x2="129.06" y2="38.87"/>
+      <polyline class="st6" points="129.06 38.87 49.94 38.87 49.94 92.75"/>
+      <polyline class="st5" points="108.34 108.99 140.36 84.08 140.36 148.13 38.64 148.13 38.64 84.08 70.86 109.15"/>
+      <polyline class="st1" points="38.64 142.48 89.5 106.69 140.36 142.48"/>
+      <line class="st2" x1="129.04" y1="74.86" x2="140.36" y2="84.08"/>
+      <line class="st0" x1="38.64" y1="84.08" x2="49.94" y2="74.87"/>
+      <polyline class="st3" points="87.27 55.3 89.53 50.99 96.16 63.65 110.25 66.05 100.26 76.27 102.33 90.41 89.53 84.06 76.72 90.41 78.8 76.27 68.8 66.05 82.9 63.65 84.32 60.93"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 179 187">
+  <!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: url(#Degradado_sin_nombre_55);
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .st1 {
+        stroke: url(#Degradado_sin_nombre_51);
+      }
+
+      .st2 {
+        stroke: url(#Degradado_sin_nombre_53);
+      }
+
+      .st3 {
+        stroke: url(#Degradado_sin_nombre_52);
+      }
+
+      .st4 {
+        stroke: url(#Degradado_sin_nombre_5);
+      }
+
+      .st5 {
+        stroke: url(#Degradado_sin_nombre_57);
+      }
+
+      .st6 {
+        stroke: url(#Degradado_sin_nombre_59);
+      }
+
+      .st7 {
+        stroke: url(#Degradado_sin_nombre_511);
+      }
+
+      .st8 {
+        stroke: url(#Degradado_sin_nombre_58);
+      }
+
+      .st9 {
+        stroke: url(#Degradado_sin_nombre_54);
+      }
+
+      .st10 {
+        stroke: url(#Degradado_sin_nombre_512);
+      }
+
+      .st11 {
+        stroke: url(#Degradado_sin_nombre_510);
+      }
+
+      .st12 {
+        stroke: url(#Degradado_sin_nombre_56);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="50.78" y1="746.14" x2="53.78" y2="746.14" gradientTransform="translate(0 -653.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf9f56"/>
+      <stop offset=".15" stop-color="#bf9f56"/>
+      <stop offset="1" stop-color="#bf9f56"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_51" data-name="Degradado sin nombre 5" x1="51.37" y1="754.84" x2="55.7" y2="754.84" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_52" data-name="Degradado sin nombre 5" x1="55.42" y1="772.44" x2="89.46" y2="772.44" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_53" data-name="Degradado sin nombre 5" x1="84.97" y1="745.89" x2="90.95" y2="745.89" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_54" data-name="Degradado sin nombre 5" x1="43.4" y1="745.89" x2="109.1" y2="745.89" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_55" data-name="Degradado sin nombre 5" x1="104.6" y1="723.89" x2="132.3" y2="723.89" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_56" data-name="Degradado sin nombre 5" x1="120.34" y1="705.79" x2="135.66" y2="705.79" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_57" data-name="Degradado sin nombre 5" x1="65.31" y1="727.65" x2="78.47" y2="727.65" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_58" data-name="Degradado sin nombre 5" x1="74.4" y1="713.74" x2="123.3" y2="713.74" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_59" data-name="Degradado sin nombre 5" x1="72.6" y1="745.89" x2="103.32" y2="745.89" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_510" data-name="Degradado sin nombre 5" x1="111.1" y1="114.45" x2="114.1" y2="114.45" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_511" data-name="Degradado sin nombre 5" x1="104.9" y1="111.85" x2="138.8" y2="111.85" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_5"/>
+    <linearGradient id="Degradado_sin_nombre_512" data-name="Degradado sin nombre 5" x1="117.3" y1="100.1" x2="132.6" y2="100.1" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_5"/>
+  </defs>
+  <g id="musica">
+    <g id="music_record_DJ_vinyl">
+      <g>
+        <path class="st4" d="M52.3,92.5v-.5"/>
+        <path class="st1" d="M54.2,103.5c-.6-1.7-1-3.4-1.3-5.1"/>
+        <path class="st3" d="M88,127.6c-13.3,0-24.9-7.3-31-18.1"/>
+        <path class="st2" d="M89.4,92c0,.8-.7,1.5-1.5,1.5s-1.5-.7-1.5-1.5.7-1.5,1.5-1.5,1.5.6,1.5,1.5Z"/>
+        <path class="st9" d="M107.6,130.4c-5.9,3-12.5,4.7-19.6,4.7-23.8,0-43.1-19.3-43.1-43.1s19.3-43.1,43.1-43.1c1.6,0,3.2.1,4.8.3"/>
+        <path class="st0" d="M106.1,52.8c13.4,6.2,23,19.1,24.7,34.4"/>
+        <rect class="st12" x="121.8" y="48.8" width="12.3" height="6.2"/>
+        <path class="st5" d="M72.4,78.5l4-6c.9-1.4.6-3.3-.8-4.3-.5-.3-1.1-.5-1.7-.5-1,0-2,.5-2.6,1.3l-4,6c-.9,1.4-.6,3.3.9,4.3.5.3,1.1.5,1.7.5,1,.1,2-.4,2.5-1.3h0Z"/>
+        <path class="st8" d="M75.9,67.7l2.5-3.1c5.4-6.8,13.5-10.9,22.2-11.4l21.2-1.2"/>
+        <circle class="st6" cx="88" cy="92" r="13.9"/>
+      </g>
+    </g>
+  </g>
+  <g id="Capa_2">
+    <g>
+      <line class="st11" x1="112.6" y1="117" x2="112.6" y2="111.9"/>
+      <path class="st7" d="M114.6,136.5v-1.2c0-3-1.7-5.6-4.2-7.1-2.4-1.4-4-4.1-4-7.1v-15.4c1.7,0,3.2.7,4.3,1.8s1.8,2.7,1.8,4.3v-18.4c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1v-3.1c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1v2.1c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1v5.1c0-1.7,1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1v24.6c0,2.7-1.1,5.3-2.9,7.2-.7.8-1.2,1.8-1.2,2.9v4.3"/>
+      <path class="st10" d="M131.1,107.8v-11.3M124.9,92.4v12.3M118.8,106.8v-14.4"/>
+    </g>
+  </g>
+</svg>
