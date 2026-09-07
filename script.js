@@ -130,3 +130,94 @@ function enviarFormulario() {
   }, 300);
 }
 // =================== //
+
+// ===================
+// Agendar: multi-calendario
+// ===================
+
+const eventData = {
+  title: "Fiesta de Empresa",
+  description: "Confirmá tu asistencia y sumate a la fiesta.",
+  location: "Ruta Nacional 205 Km114,5, B7240 Lobos, Provincia de Buenos Aires",
+  start: "2026-09-26T21:00:00-03:00",
+  end:   "2026-09-27T02:00:00-03:00"
+};
+
+function formatUTC(dateStr) {
+  return new Date(dateStr).toISOString().replace(/[-:]/g, "").split(".")[0] + "Z";
+}
+
+function formatISO(dateStr) {
+  return new Date(dateStr).toISOString();
+}
+
+
+function abrirGoogle(e) {
+  e.preventDefault();
+  const url = `https://calendar.google.com/calendar/render?action=TEMPLATE`
+    + `&text=${encodeURIComponent(eventData.title)}`
+    + `&dates=${formatUTC(eventData.start)}/${formatUTC(eventData.end)}`
+    + `&details=${encodeURIComponent(eventData.description)}`
+    + `&location=${encodeURIComponent(eventData.location)}`;
+  window.open(url, "_blank");
+}
+
+function abrirOutlook(e) {
+  e.preventDefault();
+  const url = `https://outlook.live.com/calendar/0/deeplink/compose`
+    + `?path=/calendar/action/compose&rru=addevent`
+    + `&startdt=${formatISO(eventData.start)}`
+    + `&enddt=${formatISO(eventData.end)}`
+    + `&subject=${encodeURIComponent(eventData.title)}`
+    + `&location=${encodeURIComponent(eventData.location)}`
+    + `&body=${encodeURIComponent(eventData.description)}`;
+  window.open(url, "_blank");
+}
+
+function abrirYahoo(e) {
+  e.preventDefault();
+  const start = new Date(eventData.start);
+  const end = new Date(eventData.end);
+  const durMs = end - start;
+  const durH = String(Math.floor(durMs / 3600000)).padStart(2, "0");
+  const durM = String(Math.floor((durMs % 3600000) / 60000)).padStart(2, "0");
+
+  const url = `https://calendar.yahoo.com/?v=60&view=d&type=20`
+    + `&title=${encodeURIComponent(eventData.title)}`
+    + `&st=${formatUTC(eventData.start)}`
+    + `&dur=${durH}${durM}`
+    + `&desc=${encodeURIComponent(eventData.description)}`
+    + `&in_loc=${encodeURIComponent(eventData.location)}`;
+  window.open(url, "_blank");
+}
+
+function descargarICS(e) {
+  e.preventDefault();
+  const icsContent = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "BEGIN:VEVENT",
+    `DTSTART:${formatUTC(eventData.start)}`,
+    `DTEND:${formatUTC(eventData.end)}`,
+    `SUMMARY:${eventData.title}`,
+    `DESCRIPTION:${eventData.description}`,
+    `LOCATION:${eventData.location}`,
+    "END:VEVENT",
+    "END:VCALENDAR"
+  ].join("\r\n");
+
+  const blob = new Blob([icsContent], { type: "text/calendar" });
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob);
+  link.download = "evento.ics";
+  link.click();
+}
+function toggleAgendarMenu(e) {
+  e.stopPropagation();
+  document.getElementById("agendarDropdown").classList.toggle("abierto");
+}
+
+document.addEventListener("click", function () {
+  const menu = document.getElementById("agendarDropdown");
+  if (menu) menu.classList.remove("abierto");
+});

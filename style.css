@@ -1513,3 +1513,65 @@ input {
     padding: 0 !important;
   }
 }
+
+/* ===== Dropdown Agendar ===== */
+/* ===== Íconos de calendario dentro de rsvp-btn ===== */
+.rsvp-btn i.fa-brands {
+  font-size: 1.05em;
+}/* ===== Dropdown Agendar ===== */
+.agendar-wrapper {
+  position: relative;
+  display: inline-flex;
+  flex: 1 1 45%;
+  min-width: 140px;
+  max-width: 180px;
+}
+
+.agendar-wrapper .rsvp-btn {
+  width: 100%;
+  max-width: none;
+}
+
+.agendar-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  background: var(--white-color);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px var(--black-alpha-color);
+  overflow: hidden;
+  z-index: 500;
+  min-width: 180px;
+  text-align: left;
+}
+
+.agendar-dropdown.abierto {
+  display: block;
+}
+
+.agendar-opcion {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  font-family: 'Comfortaa', cursive, sans-serif;
+  font-size: 0.95rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.agendar-opcion:hover {
+  background: #f2f2f2;
+}
+
+.agendar-opcion i {
+  font-size: 1.1rem;
+  width: 20px;
+  text-align: center;
+}
+
+.agendar-opcion .fa-google { color: #4285F4; }
+.agendar-opcion .fa-apple { color: #000; }
+.agendar-opcion .fa-microsoft { color: #0078D4; }
+.agendar-opcion .fa-yahoo { color: #6001D2; }

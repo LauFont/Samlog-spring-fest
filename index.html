@@ -38,7 +38,7 @@
             data-words='["20 años ", "Festejemos juntos"]'></span>
         </h1>
         <h3 id="fecha-evento">
-          <span>26 • 09 • 2026</span>
+          <span>26 • 09 • 2026 | 21 h</span>
         </h3>
         <div>
   </section>
@@ -55,7 +55,7 @@
     <div class="mi-historia-textos">
       <p>Tenemos un gran equipo, grandes logros y mucho por celebrar.<br>
         Hoy hacemos una pausa para compartir, brindar y disfrutar juntos.
-      <p><br>      
+      <p><br>
     </div>
 
     <section class="galeria" id="galeria">
@@ -103,7 +103,7 @@
       <section class="rsvp-location-bg">
         <div class="rsvp-location-flex">
 
-          <!-- Caja Confirmación -->
+                   <!-- Caja Confirmación -->
           <div class="rsvp" id="confirmar">
             <img src="icons/calendar.svg" alt="Confirmar asistencia" class="fiesta-icon1">
             <h2 class="section-title">Confirmá tu asistencia</h2>
@@ -113,27 +113,43 @@
             </p>
             <div class="location-buttons">
               <button class="rsvp-btn" onclick="abrirModal('modalConfirmar')">RSVP</button>
-              <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTZicGs4c2tpbzJpNnZranA5ZWdpbjQzMW8gbGF1cmFmb250LnN0dWRpb0Bt&tmsrc=laurafont.studio%40gmail.com"
-                class="rsvp-btn" target="_blank">Agendar</a>
+
+              <div class="agendar-wrapper">
+                <button class="rsvp-btn" onclick="toggleAgendarMenu(event)">Agendar</button>
+                <div class="agendar-dropdown" id="agendarDropdown">
+                  <a href="#" class="agendar-opcion" onclick="abrirGoogle(event)">
+                    <i class="fa-brands fa-google"></i> Google
+                  </a>
+                  <a href="#" class="agendar-opcion" onclick="descargarICS(event)">
+                    <i class="fa-brands fa-apple"></i> Apple
+                  </a>
+                  <a href="#" class="agendar-opcion" onclick="abrirOutlook(event)">
+                    <i class="fa-brands fa-microsoft"></i> Outlook
+                  </a>
+                  <a href="#" class="agendar-opcion" onclick="abrirYahoo(event)">
+                    <i class="fa-brands fa-yahoo"></i> Yahoo
+                  </a>
+                </div>
+              </div>
             </div>
             <div class="rsvp-info">
               <hr class="rsvp-line">
             </div>
           </div>
 
-          <!-- Caja Fiesta -->
-          <div class="location-box" id="comollegar">
-            <img src="icons/location.svg" alt="Fiesta" class="fiesta-icon1">
-            <h2 class="section-title">Fiesta</h2>
-            <p class="location-address">
-              Ruta Nacional 205 Km114,5, <br>
-              B7240 Lobos, Provincia de Buenos Aires
-            </p>
-            <div class="location-buttons">
-              <a href="https://maps.app.goo.gl/BjtBPfagdCHamfFs5" class="location-btn" target="_blank">¿Cómo llegar?</a>
-              <button class="location-btn" onclick="abrirModal('modalReserva')">Con reserva</button>
-            </div>
+        <!-- Caja Fiesta -->
+        <div class="location-box" id="comollegar">
+          <img src="icons/location.svg" alt="Fiesta" class="fiesta-icon1">
+          <h2 class="section-title">Fiesta</h2>
+          <p class="location-address">
+            Ruta Nacional 205 Km114,5, <br>
+            B7240 Lobos, Provincia de Buenos Aires
+          </p>
+          <div class="location-buttons">
+            <a href="https://maps.app.goo.gl/BjtBPfagdCHamfFs5" class="location-btn" target="_blank">¿Cómo llegar?</a>
+            <button class="location-btn" onclick="abrirModal('modalReserva')">Con reserva</button>
           </div>
+        </div>
 
         </div>
       </section>
@@ -165,7 +181,8 @@
               <span class="hashtag">#SpringParty</span>
             </p>
             <div class="location-buttons">
-              <a href="https://www.instagram.com/explore/search/keyword/?q=%23springparty&hl=es-la" class="rsvp-btn" target="_blank">Ver Fotos</a>
+              <a href="https://www.instagram.com/explore/search/keyword/?q=%23springparty&hl=es-la" class="rsvp-btn"
+                target="_blank">Ver Fotos</a>
             </div>
             <div class="rsvp-info">
               <hr class="rsvp-line">
@@ -279,7 +296,7 @@
       <iframe name="hidden_iframe" style="display:none;"></iframe>
 
 
- 
+
 
       <a href="#top" class="back-to-top" aria-label="Volver al inicio">
         <i class="fa-solid fa-chevron-up"></i>
