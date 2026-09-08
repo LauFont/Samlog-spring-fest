@@ -625,12 +625,16 @@ input {
 }
 
 .banner-content>h3 {
-  font-size: 2rem;
+  
   /* Prueba 2rem o más si lo quieres aún más grande */
   font-family: 'Comfortaa', cursive, sans-serif;
   font-weight: 700;
   margin: 0 0 0.5em 0;
   color: var(--white-color);
+}
+
+.nombre-empresa {
+  font-size: 4rem;
 }
 
 
@@ -704,7 +708,7 @@ input {
 
 .galeria {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem;
   max-width: 100%;
   margin: 1rem auto;
