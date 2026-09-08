@@ -1562,7 +1562,7 @@ input {
 }
 
 .agendar-opcion:hover {
-  background: #f2f2f2;
+  background: var(--accent-gold);
 }
 
 .agendar-opcion i {
@@ -1575,3 +1575,4 @@ input {
 .agendar-opcion .fa-apple { color: #000; }
 .agendar-opcion .fa-microsoft { color: #0078D4; }
 .agendar-opcion .fa-yahoo { color: #6001D2; }
+
