@@ -40,7 +40,7 @@ class typeWriting {
 /* ********** cuenta regresiva ********** */
 
 const countdown = document.getElementById("countdown");
-const eventDate = new Date("2026-09-26T21:00:00").getTime();
+const eventDate = new Date("2026-09-24T20:00:00").getTime();
 
 const interval = setInterval(() => {
   const now = new Date().getTime();
