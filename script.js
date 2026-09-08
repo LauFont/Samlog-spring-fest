@@ -136,11 +136,11 @@ function enviarFormulario() {
 // ===================
 
 const eventData = {
-  title: "Fiesta de Empresa",
+  title: "Samlog Spring Fest",
   description: "Confirmá tu asistencia y sumate a la fiesta.",
-  location: "Ruta Nacional 205 Km114,5, B7240 Lobos, Provincia de Buenos Aires",
-  start: "2026-09-26T21:00:00-03:00",
-  end:   "2026-09-27T02:00:00-03:00"
+  location: "Tradition & Rebellion, Olga Cossettini 731 Piso 4, CABA",
+  start: "2026-09-24T20:00:00-03:00",
+  end:   "2026-09-25T04:00:00-03:00"
 };
 
 function formatUTC(dateStr) {
